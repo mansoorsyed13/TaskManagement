@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Branding" transform="translate(-653 -2040)">
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="60" height="60" rx="30" transform="translate(653 2040)" fill="#2131a0"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(660.669 2050.072)">
+      <g id="Group_7" data-name="Group 7" transform="translate(8.331 7.928)">
+        <path id="Path_20" data-name="Path 20" d="M24.96,14.075a1.113,1.113,0,0,0-1.859-.357l-4.872,5.3L11.2,21.7A4.45,4.45,0,0,0,8.624,27.44a4.448,4.448,0,0,0,5.742,2.574l.29-.111L18.6,34.728a1.112,1.112,0,0,0,1.256.335l3.119-1.188a1.112,1.112,0,0,0,.465-1.744L19.967,27.88l1.431-.545,7.164.716a1.112,1.112,0,0,0,1.15-1.5ZM16.3,25.707l-2.079.792a1.112,1.112,0,1,1-.792-2.079l2.079-.792a1.112,1.112,0,0,1,.792,2.079Z" transform="translate(-8.331 -10.338)" fill="#fff"/>
+        <path id="Path_21" data-name="Path 21" d="M49.511,21.016a1.114,1.114,0,0,0-1.436-.644L44.957,21.56a1.113,1.113,0,1,0,.792,2.08l3.118-1.188A1.114,1.114,0,0,0,49.511,21.016Z" transform="translate(-24.268 -13.419)" fill="#fff"/>
+        <path id="Path_22" data-name="Path 22" d="M41.336,12.927a1.112,1.112,0,0,0,1.47-.56L44.093,9.5a1.113,1.113,0,1,0-2.031-.91l-1.287,2.871A1.114,1.114,0,0,0,41.336,12.927Z" transform="translate(-22.687 -7.928)" fill="#fff"/>
+        <path id="Path_23" data-name="Path 23" d="M52.238,33.165l-2.871-1.286a1.112,1.112,0,1,0-.91,2.03l2.871,1.286a1.112,1.112,0,0,0,.91-2.03Z" transform="translate(-25.847 -18.514)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
